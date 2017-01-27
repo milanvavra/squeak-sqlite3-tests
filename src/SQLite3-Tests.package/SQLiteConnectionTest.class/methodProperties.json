@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"databaseName" : "tbn 1/25/2010 20:45",
+		"defaultTestClass" : "tbn 1/25/2010 20:06",
+		"setUp" : "tbn 1/25/2010 20:44",
+		"tearDown" : "tbn 1/25/2010 20:45",
+		"testInstanceCreation" : "tbn 1/25/2010 20:28",
+		"testRegistration" : "tbn 1/25/2010 20:28",
+		"testTableCreation" : "tbn 1/25/2010 20:54",
+		"testUseDatabase" : "tbn 1/25/2010 21:03" } }

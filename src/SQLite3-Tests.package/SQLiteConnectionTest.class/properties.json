@@ -1,0 +1,14 @@
+{
+	"category" : "SQLite3-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"db" ],
+	"name" : "SQLiteConnectionTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
