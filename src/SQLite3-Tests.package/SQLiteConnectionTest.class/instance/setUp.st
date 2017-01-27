@@ -1,4 +1,5 @@
 running
 setUp
 	super setUp.
-	db := self defaultTestClass fileNamed: self databaseName.
+	
+	db := self defaultTestClass fileNamed: self databaseFileName.

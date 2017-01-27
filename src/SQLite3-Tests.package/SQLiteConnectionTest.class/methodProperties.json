@@ -2,10 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"databaseName" : "tbn 1/25/2010 20:45",
+		"databaseFileName" : "spd 5/19/2010 14:38",
+		"databaseName" : "spd 5/19/2010 14:32",
 		"defaultTestClass" : "tbn 1/25/2010 20:06",
-		"setUp" : "tbn 1/25/2010 20:44",
-		"tearDown" : "tbn 1/25/2010 20:45",
+		"setUp" : "spd 5/19/2010 14:36",
+		"tearDown" : "spd 5/19/2010 14:37",
 		"testInstanceCreation" : "tbn 1/25/2010 20:28",
 		"testRegistration" : "tbn 1/25/2010 20:28",
 		"testTableCreation" : "tbn 1/25/2010 20:54",
