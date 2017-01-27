@@ -2,12 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
-		"databaseFileName" : "spd 5/19/2010 14:38",
+		"databaseFileName" : "ar 12/8/2011 14:40",
 		"databaseName" : "spd 5/19/2010 14:32",
 		"defaultTestClass" : "tbn 1/25/2010 20:06",
 		"setUp" : "spd 5/19/2010 14:36",
-		"tearDown" : "spd 5/19/2010 14:37",
+		"tearDown" : "ar 12/8/2011 14:40",
 		"testInstanceCreation" : "tbn 1/25/2010 20:28",
+		"testPreparedStatements" : "ar 12/9/2011 19:21",
 		"testRegistration" : "tbn 1/25/2010 20:28",
 		"testTableCreation" : "tbn 1/25/2010 20:54",
 		"testUseDatabase" : "tbn 1/25/2010 21:03" } }
